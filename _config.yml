@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Rasponic"
+title                    : "Rasponicc"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aakanksha Agrawal"
@@ -129,10 +129,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rasponic"
+      url: "https://github.com/rasponicc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rasponic"
+      url: "https://instagram.com/rasponicc"
 
 # Site Footer
 footer:
