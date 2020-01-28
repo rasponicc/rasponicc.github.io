@@ -86,6 +86,10 @@ void draw() {
 }
 ```
 At the end it ended up looking like this:<br>
-!video[random-bubbles1](/assets/bubbles.mp4){size=10}
+!video [random bubbles](/assets/bubbles.mp4)
+
+<video width="480" height="320" controls="controls">
+  <source src="/assets/bubbles.mp4" type="video/mp4">
+</video>
 
 I can control the rate fo bubbles appearing however, I want to make them dissapear as well when I reverse the knob of the potentiometer and the value goes down. Gonna try more till I a lot make this possible. Anyhow, I love this project and see a lot fo scope with new ideas here!
