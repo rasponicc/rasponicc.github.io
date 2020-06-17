@@ -2,7 +2,8 @@
 layout: single
 title: "Generative spirals"
 date: 2020-1-6
-categories: jekyll update
+categories: creative-coding
+permalink: /generative-spirals/
 header:
   image: /assets/post-assets/generative-spirals/1.png
   overlay_image: /assets/post-assets/generative-spirals/1.png

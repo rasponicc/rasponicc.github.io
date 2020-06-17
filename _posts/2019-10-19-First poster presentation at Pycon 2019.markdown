@@ -11,7 +11,8 @@ tags: blog-post PyCon Speaking
 header:
   image: /images/2.jpg
   overlay_image: /images/2.jpg  
-  teaser: /images/2.jpg  
+  teaser: /images/2.jpg 
+  overlay_filter: 0.15 
 ---
 
 I gave a poster presentation at PyCon 2019. It was nothing like I expected it.

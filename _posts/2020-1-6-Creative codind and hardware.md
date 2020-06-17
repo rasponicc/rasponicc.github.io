@@ -2,7 +2,9 @@
 layout: single
 title: "First attempt with creative coding and hardware"
 date: 2020-1-6
-categories: jekyll update
+categories: hardware creative-coding
+tags: p5.js generative-art
+permalink: /creative-coding-and-hardware/
 header:
   image: /assets/bubbles.jpg
   overlay_image: /assets/bubbles.jpg 
