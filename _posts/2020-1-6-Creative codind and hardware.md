@@ -1,8 +1,12 @@
 ---
-layout: posts
+layout: single
 title: "First attempt with creative coding and hardware"
 date: 2020-1-6
 categories: jekyll update
+header:
+  image: /assets/bubbles.jpg
+  overlay_image: /assets/bubbles.jpg 
+  teaser: /assets/bubbles.jpg
 ---
 
 

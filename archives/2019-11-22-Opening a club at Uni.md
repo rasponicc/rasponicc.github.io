@@ -1,5 +1,5 @@
 ---
-layout: posts
+<!-- layout: posts
 title: "How to open a club in your first year at University. My experience"
 date: 2019-12-18
 categories: jekyll update
@@ -15,4 +15,4 @@ The booth was successful as we had a lot of fun and a hood number of people text
 
 Here is an article about the new clubs at Ashoka an features my [interview](https://www.hercampus.com/school/ashoka/ashokan-clubs-and-societies-meet-newbies)
 
-![picture](/images/tinkerbooth1.jpg)
+![picture](/images/tinkerbooth1.jpg) -->

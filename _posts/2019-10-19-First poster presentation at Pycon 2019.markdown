@@ -1,14 +1,26 @@
 ---
-layout: posts
+layout: single
 title: "PyCon 2019-My first poster presentation"
 date: 2019-10-7
-categories: jekyll update
+
+permalink : /pycon2019/
+tagline: "This is a custom tagline content which overrides the default page excerpt."
+description: "I attended my first open-source conference"
+categories: Experience Writing
+tags: blog-post PyCon Speaking
+header:
+  image: /images/2.jpg
+  overlay_image: /images/2.jpg  
+  teaser: /images/2.jpg  
 ---
-{% highlight bash %}
-GIT INIT
-{% endhighlight %}
 
 I gave a poster presentation at PyCon 2019. It was nothing like I expected it.
+
+```
+GIT INIT
+```
+
+
 
 I considered myself a good orator, who could command a room and move the audience. Even then, idea of giving a “tech” talk always felt intimidation. Explaining a poster at the biggest open source conference to people who are the best in their field? Even more so. I went in expecting to be lost among a crowd of geniuses, but my experience with the poster presentation and PyCon 2019 was was quite the opposite.
 

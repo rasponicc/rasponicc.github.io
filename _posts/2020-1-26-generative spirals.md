@@ -1,9 +1,19 @@
 ---
-layout: posts
+layout: single
 title: "Generative spirals"
 date: 2020-1-6
 categories: jekyll update
+header:
+  image: /assets/post-assets/generative-spirals/1.png
+  overlay_image: /assets/post-assets/generative-spirals/1.png
+  teaser: /assets/post-assets/generative-spirals/1.png
+  tagline: "testing"
+
+
+
 ---
+Making generative spirals in p5.js
+
 With the beginning of a new year, AND a new decade, a lot of exciting things happened. Besides starting my second semester at Uni, I was also about to attend my FIRST EVER ACTUAL COMPUTER SCIENCE CLASS. I was pretty hyped up for it throughout the semester break. 
 
 Yes, the class over exceeded my exceptions. Only class for which I wished time stopped. Alas, all good things do come to an end :P
