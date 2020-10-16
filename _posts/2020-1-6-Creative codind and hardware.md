@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "First attempt with creative coding and hardware"
+title: "First attempt at a data driven generative system"
 date: 2020-1-6
 categories: hardware creative-coding
 tags: p5.js generative-art
-permalink: /creative-coding-and-hardware/
+permalink: /data-driven-system/
 header:
   image: /assets/bubbles.jpg
   overlay_image: /assets/bubbles.jpg 
@@ -13,7 +13,10 @@ header:
 
 
 
-Goal: mix hardware and creative coding.
+Goal: Use real time sensor data to make art.
+
+Ever since I came across Processing foundation and plethora of ways to make art I've wanted to try this out. Even though I'm far,far away from making Refik Anadol like artwork, I wanted to blog my first attempt at a real time data driven system. So here it goes!
+<hr>
 
 I tried to take inputs from an Arduino to control graphics in processing.  Now the initial project I thought of was of course very ambitious, but I managed to convince myself to take baby steps. I wanted to manipulate the basic random bubbles programme.
 
@@ -38,7 +41,7 @@ for(float i=0; i<100; i++){
 ```
 ![Random-bubbles](/assets/bubbles.jpg)
 
-Instead of the no of circles depending on a fixes value (i<100), I wanted them to change based on some real time inputs. So I hooked up a potentiometer and using it's input's tried to  control the bubbles.
+Instead of the number of circles depending on a fixes value (i<100), I wanted them to change based on some real time inputs. So I hooked up a potentiometer and using it's input's tried to  control the bubbles.
 
 First, I had to figure out a way to make the Arduino communicate with processing. This was done using the serial library. I was able to display the potentiometer values in the console in Processing. Next based on that value I wanted the bubbles to appear and dissapear.
 
@@ -98,4 +101,4 @@ At the end it ended up looking like this:<br>
   <source src="/assets/bubbles.mp4" type="video/mp4">
 </video>
 
-I can control the rate fo bubbles appearing however, I want to make them dissapear as well when I reverse the knob of the potentiometer and the value goes down. Gonna try more till I a lot make this possible. Anyhow, I love this project and see a lot fo scope with new ideas here!
+I can control the rate of bubbles appearing however, I want to make them dissapear as well when I reverse the knob of the potentiometer and the value goes down. Gonna try more till I a lot make this possible. Anyhow, I love this project and see a lot of scope with new ideas here!

@@ -5,8 +5,9 @@ date: 2020-1-6
 categories: creative-coding
 permalink: /generative-spirals/
 header:
-  image: /assets/post-assets/generative-spirals/1.png
+  # image: /assets/post-assets/generative-spirals/1.png
   overlay_image: /assets/post-assets/generative-spirals/1.png
+  # show_overlay_excerpt: false
   teaser: /assets/post-assets/generative-spirals/1.png
   tagline: "testing"
 
