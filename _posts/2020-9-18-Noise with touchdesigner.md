@@ -21,6 +21,8 @@ A girl cannot but make lemonade.
 
 So here is some artwork made in TouchDesigner taught by Prof Koushik Varma.
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/rTf7dseGnX2p7Tj7v7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rTf7dseGnX2p7Tj7v7">via GIPHY</a></p>
+
 <iframe src="https://giphy.com/embed/rTf7dseGnX2p7Tj7v7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rTf7dseGnX2p7Tj7v7"></a></p>
 
 <iframe src="https://giphy.com/embed/ldx20U9nN0rlGb2dES" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ldx20U9nN0rlGb2dES">organic growth</a></p>

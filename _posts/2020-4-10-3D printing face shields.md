@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Prototying LED tower lamp"
-date: 2020-1-6
+title: "3D printing and distributing face shields"
+date: 2020-5-10
 # categories: creative-coding
-permalink: /LED-tower-lamp/
+permalink: /face-shields/
 header:
   # image: /assets/post-assets/generative-spirals/1.png
   overlay_image: /assets/post-assets/LED LAMP/IMG_20201017_000650.jpg
@@ -20,12 +20,6 @@ College was starting in a week and I had recently started tinkering with hobby e
 
 The process included cutting particles boards, drilling them together, putting in a non adressable LED stip with an IR reciever, and finally gluing acryic sheet for diffusers. The result turned out lovely! Here are some images.
 
-<iframe src="https://giphy.com/embed/cRHYXW9QkWreNZiN6Z" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cRHYXW9QkWreNZiN6Z">via GIPHY</a></p>
-
-
-<!-- 
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/cRHYXW9QkWreNZiN6Z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cRHYXW9QkWreNZiN6Z">via GIPHY</a></p> -->
-
 ![Generative spirals](/assets/post-assets/LED LAMP/IMG_20201017_000650.jpg)
 
 
@@ -34,3 +28,13 @@ The process included cutting particles boards, drilling them together, putting i
 
 ![Generative spirals](/assets/post-assets/LED LAMP/IMG_20201017_000604.jpg)
 
+
+<!-- 
+<video width="480" height="320" controls="controls">
+  <source src="/assets/post-assets/generative-spirals/Screencast 2020-01-29 00:24:20.mp4" type="video/mp4">
+</video>
+
+
+<video width="480" height="320" controls="controls">
+  <source src="/assets/post-assets/generative-spirals/Screencast 2020-01-29 00:25:10.mp4" type="video/mp4">
+</video> -->
