@@ -14,9 +14,9 @@ header:
 
 
 ---
-I finally went from being a perpetually broke uni student craving a 3D printer to a perpetually broke uni student WITH A 3D PRINTER!
+In times of crisis communities come forward and help.
 
-I bought a Creality Ender 3, which is an entry level FDM 3D printer. For an entry level printer it's actully pretty good and it's also highly customisable. This was also when COVID-19 had just struck. The Maker community came up with awesome models of face shields and corona keys and open-sourced the design for anyone and everyone to print!
+I finally bought a Creality Ender 3, which is an entry level FDM 3D printer. For an entry level printer it's actually pretty good and it's also highly customisable. This was also when COVID-19 had just struck. The Maker community came up with awesome models of face shields and corona keys, and open-sourced the design for anyone and everyone to print!
 
 So I printed a few for my family and neighbourhood security guards.
 
