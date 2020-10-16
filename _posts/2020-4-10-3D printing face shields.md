@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "3D printing and distributing face shields"
-date: 2020-5-10
+title: "3D printing face shields"
+date: 2020-7-10
 # categories: creative-coding
 permalink: /face-shields/
 header:
@@ -14,19 +14,25 @@ header:
 
 
 ---
-Can I say I'm a Maker now?
+I finally went from being a perpetually broke uni student craving a 3D printer to a perpetually broke uni student WITH A 3D PRINTER!
 
-College was starting in a week and I had recently started tinkering with hobby electronics and hardware. That was when I saw a cool LED lamp so I decided to make my own. This project was actually the one where I found I quite loving fabricating stuff with my hands, playing with LED's, designing stuff, operating a CNC machine(It was so fun!), MAKING.
+I bought a Creality Ender 3, which is an entry level FDM 3D printer. For an entry level printer it's actully pretty good and it's also highly customisable. This was also when COVID-19 had just struck. The Maker community came up with awesome models of face shields and corona keys and open-sourced the design for anyone and everyone to print!
 
-The process included cutting particles boards, drilling them together, putting in a non adressable LED stip with an IR reciever, and finally gluing acryic sheet for diffusers. The result turned out lovely! Here are some images.
+So I printed a few for my family and neighbourhood security guards.
 
-![Generative spirals](/assets/post-assets/LED LAMP/IMG_20201017_000650.jpg)
-
-
-![Generative spirals](/assets/post-assets/LED LAMP/IMG_20201017_000615.jpg)
+[models are available on Thingiverse]
 
 
-![Generative spirals](/assets/post-assets/LED LAMP/IMG_20201017_000604.jpg)
+![Face-shield](/assets/post-assets/face-shield/1.jpg)
+
+
+![Face-shield](/assets/post-assets/face-shield/2.jpg)
+
+
+![Face-shield](/assets/post-assets/face-shield/3.jpg)
+
+![Face-shield](/assets/post-assets/face-shield/4.jpg)
+
 
 
 <!-- 

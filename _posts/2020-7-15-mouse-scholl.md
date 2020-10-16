@@ -9,16 +9,16 @@ header:
   overlay_image: /assets/post-assets/mouse-scroll/Screenshot at 2020-10-17 01-45-29.png
   # show_overlay_excerpt: false
   teaser: /assets/post-assets/generative-spirals/1.png
-  tagline: "testing"
+  tagline: 
 
 
 
 ---
-[solved! :3]
 
-I've been a linux user for about 2 years now. I love Mint. 
 
-That being said it has some quirks that can potentially throw someone into an existential dread. One such instance happened when I left college for my mid term break with nothing but my laptop and a change of clothes assuming that I'll be back 3 days later and life will go back to normal. But oh how things turn out. Pointing out the obvious, first case of COVID-19 hit noida the very same day and rest as we say.. is history (??).
+I love a linux but it has it's quirks.
+
+And these quirks that can potentially throw someone into an existential dread. One such instance happened when I left college for my mid term break with nothing but my laptop and a change of clothes assuming that I'll be back 3 days later and life will go back to normal. But oh how things turn out. Pointing out the obvious, first case of COVID-19 hit noida the very same day and rest as we say.. is history (??).
 
 Besides leaving everything: all my clothes, items and my life in my dorm room I also left my wireless mouse that I had been using for about 3 years. After not being able to work efectively with the touchpad, I decided to share my brothers mouse. However that involved remobing the reciever time and again each time The Great Mouse Exchange took place. Where is the problem in that, you might ask?
 
@@ -26,7 +26,7 @@ Linux Mint by default has natural scrolling enables which contrary to the name i
 
 This also provided a nice way for me to learn some bash scripting and feel some command lines heroine vibes for about 2 seconds(till the next bitersweet quirk :p) 
 
-Here is a short bash script that made made me leann a lot and made a life a tad bit simpler :)
+Here is a short bash script that made me learn a lot and made a life a little bit simpler :)
 
 ```
 #!/bin/bash

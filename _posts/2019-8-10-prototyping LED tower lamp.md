@@ -20,6 +20,8 @@ College was starting in a week and I had recently started tinkering with hobby e
 
 The process included cutting particles boards, drilling them together, putting in a non adressable LED stip with an IR reciever, and finally gluing acryic sheet for diffusers. The result turned out lovely! Here are some images.
 
+<iframe src="https://giphy.com/embed/socbLeXEm24DGcST8O" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/socbLeXEm24DGcST8O">via GIPHY</a></p>
+
 <iframe src="https://giphy.com/embed/cRHYXW9QkWreNZiN6Z" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cRHYXW9QkWreNZiN6Z">via GIPHY</a></p>
 
 
